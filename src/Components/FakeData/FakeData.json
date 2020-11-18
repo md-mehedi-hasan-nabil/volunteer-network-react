@@ -1,0 +1,124 @@
+
+
+[
+    {
+        "id": 1,
+        "title": "Child Support",
+        "image": "childSupport",
+        "color": "#ffbd3e"
+    },
+    {
+        "id": 2,
+        "title": "Refuge Shelter",
+        "image": "refuseShelter",
+        "color": "#ff7044"
+    },
+    {
+        "id": 3,
+        "title": "Food Charity",
+        "image": "foodCharity",
+        "color": "#3F90FC"
+    },
+    {
+        "id": 4,
+        "title": "Host a clothing swap",
+        "image": "clothSwap",
+        "color": "#421FCF"
+    },
+    {
+        "id": 5,
+        "title": "Host a river clean-up",
+        "image": "riverClean",
+        "color": "#3F90FC"
+    },
+    {
+        "id": 6,
+        "title": "Clean water for children",
+        "image": "cleanWater",
+        "color": "#421FCF"
+    },
+    {
+        "id": 7,
+        "title": "Good education",
+        "image": "goodEducation",
+        "color": "#ffbd3e"
+    },
+    {
+        "id": 8,
+        "title": "New books for children",
+        "image": "newBooks",
+        "color": "#ff7044"
+    },
+    {
+        "id": 9,
+        "title": "Host a study grope",
+        "image": "studyGroup",
+        "color": "#ffbd3e"
+    },
+    {
+        "id": 10,
+        "title": "Build birdhouses for your neighbors",
+        "image": "birdHouse",
+        "color": "#3F90FC"
+    },
+    {
+        "id": 11,
+        "title": "Organize books at the library.",
+        "image": "libraryBooks",
+        "color": "#ff7044"
+    },
+    {
+        "id": 12,
+        "title": "Give a seminar on driving safety.",
+        "image": "driveSafety",
+        "color": "#421FCF"
+    },
+    {
+        "id": 13,
+        "title": "Give free music lessons.",
+        "image": "musicLessons",
+        "color": "#3F90FC"
+    },
+    {
+        "id": 14,
+        "title": "Teach people how to register to vote.",
+        "image": "voteRegister",
+        "color": "#421FCF"
+    },
+    {
+        "id": 15,
+        "title": "Clean up your local park.",
+        "image": "clearnPark",
+        "color": "#ffbd3e"
+    },
+    {
+        "id": 16,
+        "title": "Give IT help to local adults",
+        "image": "ITHelp",
+        "color": "#ff7044"
+    },
+    {
+        "id": 17,
+        "title": "Foster a shelter animal.",
+        "image": "animalShelter",
+        "color": "#ff7044"
+    },
+    {
+        "id": 18,
+        "title": "Babysit during PTA meetings.",
+        "image": "babySit",
+        "color": "#ffbd3e"
+    },
+    {
+        "id": 19,
+        "title": "Collect stuffed animals.",
+        "image": "stuffedAnimals",
+        "color": "#3F90FC"
+    },
+    {
+        "id": 20,
+        "title": "Collect school supplies",
+        "image": "schoolSuffiles",
+        "color": "#ff7044"
+    }
+]
